@@ -1,4 +1,4 @@
-FROM php:8.1.5-fpm
+FROM php:8.1.6-fpm
 
 LABEL org.opencontainers.image.authors="Terje Sannum <terje@offpiste.org>" \
       org.opencontainers.image.source="https://github.com/terjesannum/docker-php-fpm"
